@@ -1,1 +1,1 @@
-test modification fichier bla bla
+ Modification pour comprendre le FETCH_HEAD
